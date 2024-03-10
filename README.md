@@ -1,3 +1,23 @@
 # Numpy-case-study
- Dive into a NumPy case study: Synthetic dataset simulating movie reviews by N users for M movies, rating 1-10, with std deviation and sorting. User base: 1301-2301, movie IDs: 1-100, 50 extra movies and users. NumPy used for efficient processing
-Explore an in-depth NumPy case study where I generated a synthetic dataset from scratch, simulating user reviews for movies. 📊 The dataset includes N users randomly reviewing M movies, assigning K ratings between 1 to 10, with a standard deviation calculation for ratings and sorting movies from lowest to highest rated. 🎬 With a user base ranging from 1301 to 2301 and movie IDs spanning from 1 to 100, I extended the dataset by incorporating 50 additional movies and users, randomly rating any movie. 💡 Leveraging NumPy's array manipulation capabilities, I efficiently processed the data, resulting in a comprehensive matrix containing movie ratings, their standard deviations, and a sorted list based on ratings. Dive into the code and explore the methodology behind data generation, manipulation, and analysis in this insightful GitHub repository! 
+📦 NumPy Case Study: Random Data Generation and Analysis
+
+Embark on a fascinating journey where data is completely synthesized using NumPy. Delve into the intricacies of randomization techniques, user-movie interactions, and rating distributions.
+
+Key Features:
+
+Random generation of user-movie interactions
+Assignment of random ratings between 1 to 10
+Calculation of standard deviation of ratings
+Sorting of movies from lowest to highest rated
+Additional Information:
+
+Range of total users: 1301 to 2301
+Movie ID range: 1 to 100
+Introduction of 50 new movies and 50 additional users, enriching the dataset
+Discover how NumPy efficiently handles the generation and analysis of large-scale datasets, providing invaluable insights into user preferences and movie ratings.
+
+Ready to dive into the code? Head over to the GitHub repository for detailed implementation and results!
+
+[GitHub Repository Link]
+
+#NumPy #DataGeneration #CaseStudy #Randomization #DataAnalysis #Python #GitHub #DataScience #MachineLearning #DataManipulation
